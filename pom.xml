@@ -18,7 +18,7 @@
 	<groupId>com.fasterxml.jackson.core</groupId>
 	<artifactId>jackson-annotations</artifactId>
 	<name>Jackson-annotations</name>
-	<version>2.2.0-spaceape</version>
+	<version>2.2.1-spaceape-SNAPSHOT</version>
 	<description>Core annotations used for value types, used by Jackson data binding package.
   </description>
 
@@ -27,7 +27,7 @@
 		<connection>scm:git:git@github.com:spaceapegames/jackson-annotations.git</connection>
 		<developerConnection>scm:git:git@github.com:spaceapegames/jackson-annotations.git</developerConnection>
 		<url>scm:git:git@github.com:spaceapegames/jackson-annotations.git</url>
-		<tag>jackson-annotations-2.2.0-spaceape</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<properties>
