@@ -36,13 +36,13 @@
 	</properties>
 
 	<distributionManagement>
-		<repository>
-			<id>spaceapegames</id>
-			<url>http://repo.apelabs.net.com:8081/aritfactory/libs-release-local</url>
-		</repository>
-		<snapshotRepository>
-			<id>spaceapegames</id>
-			<url>http://repo.apelabs.net.com:8081/aritfactory/libs-snapshot-local</url>
-		</snapshotRepository>
-	</distributionManagement>
+        <repository>
+            <id>spaceapegames</id>
+            <url>http://spaceapegames.artifactoryonline.com/spaceapegames/libs-releases-local</url>
+        </repository>
+        <snapshotRepository>
+            <id>spaceapegames</id>
+            <url>http://spaceapegames.artifactoryonline.com/spaceapegames/libs-snapshots-local</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
